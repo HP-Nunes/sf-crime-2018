@@ -31,7 +31,8 @@ Libraries used
 * pytz==2018.5
 * six==1.11.0
 * SQLAlchemy==1.2.9
-* Werkzeug==0.14.1hon Flask
+* Werkzeug==0.14.1
+* hon Flask
 
 Deployed via Heroku
 
