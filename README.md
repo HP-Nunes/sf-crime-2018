@@ -16,22 +16,22 @@ D3.js
 
 Libraries used
 
-Pytcertifi==2018.4.16
-click==6.7
-Flask==1.0.2
-Flask-SQLAlchemy==2.3.2
-gunicorn==19.9.0
-itsdangerous==0.24
-Jinja2==2.10
-MarkupSafe==1.0
-numpy==1.14.5
-pandas==0.23.1
-psycopg2==2.7.5
-python-dateutil==2.7.3
-pytz==2018.5
-six==1.11.0
-SQLAlchemy==1.2.9
-Werkzeug==0.14.1hon Flask
+* Pytcertifi==2018.4.16
+* click==6.7
+* Flask==1.0.2
+* Flask-SQLAlchemy==2.3.2
+* gunicorn==19.9.0
+* itsdangerous==0.24
+* Jinja2==2.10
+* MarkupSafe==1.0
+* numpy==1.14.5
+* pandas==0.23.1
+* psycopg2==2.7.5
+* python-dateutil==2.7.3
+* pytz==2018.5
+* six==1.11.0
+* SQLAlchemy==1.2.9
+* Werkzeug==0.14.1hon Flask
 
 Deployed via Heroku
 
